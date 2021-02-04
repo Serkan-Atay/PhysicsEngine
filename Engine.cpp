@@ -1,5 +1,5 @@
 #include <iostream>
-#include "class.h"
+#include "class.h" //A randomized class
 
 //Axis Aligned Bounding Boxes
 struct AABB {
