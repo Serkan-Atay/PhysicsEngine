@@ -1,4 +1,5 @@
 #include <iostream>
+#include "class.h"
 
 //Axis Aligned Bounding Boxes
 struct AABB {
